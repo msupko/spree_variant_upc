@@ -3,8 +3,9 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_variant_upc'
   s.version     = '1.3.2'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'Just adds a UPC field per variant to a Spree store.  That\'s it!'
+  s.description = ''
+  s.author      = 'Matt Supko'
   s.required_ruby_version = '>= 1.8.7'
 
   # s.author    = 'You'
